@@ -559,13 +559,13 @@ http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/9346/index.m3u8
 #EXTINF:1 ,  Shot TV orig
 
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/9347/index.m3u8
-#EXTINF:0 tvg-rec=\"7\",EXTASY HD
+#EXTINF:0 ,EXTASY HD
 
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/11051/index.m3u8
-#EXTINF:0 tvg-rec=\"7\",KinoXXX
+#EXTINF:0 ,KinoXXX
 
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/11052/index.m3u8
-#EXTINF:0 tvg-rec=\"7\",ОХ-АХ HD
+#EXTINF:0 ,ОХ-АХ HD
 
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/11068/index.m3u8
 #EXTINF:1 ,  VF Cartoon 18+
